@@ -1,0 +1,4 @@
+user_size:2
+group_size:2
+Ken:123:CSE-students
+zephyr:ni487:AOS-students
